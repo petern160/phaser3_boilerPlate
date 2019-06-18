@@ -13,11 +13,11 @@
 ## setup
 
 ```bash
+>  https://github.com/22mahmoud/Phaser.io-v3-Boilerplate.git original version can be viewed here did slight edits
 
+> yarn
 
-> npm i
-
-> npm start
+> yarn start
 ```
 
 ## Goals
