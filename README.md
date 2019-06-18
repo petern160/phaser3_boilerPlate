@@ -13,15 +13,14 @@
 ## setup
 
 ```bash
->  git clone https://github.com/22mahmoud/Phaser.io-v3-Boilerplate.git
 
-> yarn
 
-> yarn start
+> npm i
+
+> npm start
 ```
 
 ## Goals
 
 * [x] Boilerplate
-* [ ] CLI ( generates scenes and objects )
-* [ ] Game examples
+
