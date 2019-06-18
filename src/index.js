@@ -1,7 +1,10 @@
+/* eslint-disable comma-dangle */
+/* eslint-disable quotes */
+/* eslint-disable class-methods-use-this */
 import Phaser from "phaser";
 
 import constants from "./config/constants";
-import GameScene from "./scenes/game";
+import Scene1 from "./scenes/game";
 
 const config = {
   type: Phaser.AUTO,
@@ -16,7 +19,7 @@ const config = {
       debug: false
     }
   },
-  scene: [GameScene]
+  scene: [Scene1]
 };
 
 // eslint-disable-next-line no-new
